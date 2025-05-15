@@ -3,10 +3,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=binarybhavik&fontColor=f7f5f5&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;MCA+Student;Open+Source+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;Open+Source+Enthusiast;Artist;Problem+Solver)](https://git.io/typing-svg)
 </div>
 
-## 🎮 Snake Game Animation
+## 🎮 Snake Animation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
@@ -125,15 +125,6 @@
   </a>
 </div>
 
-## 🎲 Memory Game - Click on the cards!
-
-<div align="center">
-  <a href="https://github.com/binarybhavik/memory-game">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e77b9" alt="Memory Game" width="500" />
-  </a>
-  <p><strong>How to play:</strong> Click on a card to flip it, find all the matching pairs! Fork <a href="https://github.com/binarybhavik/memory-game">this repository</a> to add this game to your profile.</p>
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -186,6 +177,5 @@
 Note: To make this README fully functional, you'll need to:
 1. Set up GitHub Actions for the snake animation
 2. Connect Spotify GitHub Profile for the music widget
-3. Create/fork the memory game repository 
-4. Generate and upload your contact QR code to your assets folder
+3. Generate and upload your contact QR code to your assets folder
 -->
