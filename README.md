@@ -1,21 +1,7 @@
-# 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello, I'm Bhavik Jain!
 
 <div align="center">
-  
-```
- /$$$$$$$  /$$                                      /$$       /$$$$$$$  /$$                           /$$       
-| $$__  $$|__/                                     | $$      | $$__  $$| $$                          | $$       
-| $$  \ $$ /$$ /$$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$$ /$$  | $$  \ $$| $$$$$$$   /$$$$$$  /$$    /$$| $$   /$$
-| $$$$$$$ | $$| $$__  $$ |____  $$ /$$__  $$ /$$__  $$| $$  | $$$$$$$  | $$__  $$ |____  $$|  $$  /$$/| $$  /$$/
-| $$__  $$| $$| $$  \ $$  /$$$$$$$| $$  \__/| $$  | $$| $$  | $$__  $$| $$  \ $$  /$$$$$$$|  $$/$$/  | $$$$$$/
-| $$  \ $$| $$| $$  | $$ /$$__  $$| $$      | $$  | $$| $$  | $$  \ $$| $$  | $$ /$$__  $$ \  $$$/   | $$_  $$
-| $$$$$$$/| $$| $$  | $$|  $$$$$$$| $$      |  $$$$$$$| $$  | $$$$$$$/| $$  | $$|  $$$$$$$  \  $/    | $$ \  $$
-|_______/ |__/|__/  |__/ \_______/|__/       \_______/|__/  |_______/ |__/  |__/ \_______/   \_/     |__/  \__/
-```
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,22,29,24&height=150&section=header&animation=fadeIn" width="100%"/>
-
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=binarybhavik&fontColor=f7f5f5&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;MCA+Student;Open+Source+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 </div>
@@ -40,8 +26,6 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://github.com/binarybhavik/binarybhavik/blob/output/ocean.gif" width="100%">
-  
   <table>
     <tr>
       <td align="center" width="96">
@@ -97,7 +81,7 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65" height="65" />
         <br>Tailwind
       </td>
       <td align="center" width="96">
@@ -127,17 +111,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binarybhavik&theme=tokyonight" width="100%" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=binarybhavik&theme=tokyonight&column=6&row=1&margin-w=15&margin-h=15" width="100%" />
-  <br><br>
-  
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binarybhavik&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binarybhavik&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
-  </p>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarybhavik&theme=tokyonight&hide_border=true" width="70%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=binarybhavik&show_icons=true&bg_color=0d1117&text_color=ffffff&border_color=0d1117&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binarybhavik&layout=compact&bg_color=0d1117&text_color=ffffff&border_color=0d1117&hide_border=true" width="41%" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarybhavik&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=binarybhavik&theme=react-dark&hide_border=true" width="90%" />
+  </a>
 </div>
 
 ## 🎲 Memory Game - Click on the cards!
@@ -195,7 +180,7 @@
   <p>Scan this QR code to send me an email directly!</p>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,22,29,24&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=150&section=footer" />
 
 <!-- 
 Note: To make this README fully functional, you'll need to:
