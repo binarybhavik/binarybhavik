@@ -58,6 +58,21 @@ I'm a passionate software engineer pursuing Integrated MCA (2022-2027) at Intern
 
 </div>
 
+---
+
+## 🏆 Projects
+
+### Knowledge Time @ IIPS
+- Web-based timetable management system with role-based access
+- Reduced scheduling errors by 50%
+- **Tech Stack**: PHP, JavaScript, MySQL, CSS
+
+### LeChalo
+- Lift-sharing web application connecting hitchhikers with registered drivers
+- Features live GPS tracking, secure messaging, and emergency alerts
+- **Tech Stack**: HTML, CSS, JavaScript, Google Maps API
+
+---
 
 ## 📊 GitHub Stats
 
