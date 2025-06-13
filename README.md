@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello, I'm Bhavik Jain!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=binarybhavik&fontColor=f7f5f5&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=200&section=header&text=sudobhavik&fontColor=f7f5f5&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%"/>
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;Open+Source+Enthusiast;Artist;Problem+Solver" alt="Typing SVG" /></a>
 </div>
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing Integrated MCA (2022-2027) at IIPS, DAVV
+- 🎓 Pursuing Integrated MCA (2022–2027) at IIPS, DAVV
 - 💡 Passionate about creating clean, efficient code
 - 🌱 Currently exploring cloud architecture and microservices
 - 👾 Love solving DSA problems (150+ solved across platforms!)
@@ -33,79 +33,79 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
         <br>Java
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
         <br>C++
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
         <br>MySQL
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" />
         <br>HTML5
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" />
         <br>CSS3
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
         <br>AWS
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" />
         <br>MongoDB
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65" height="65" />
         <br>PHP
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="65" height="65" />
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="65" height="65" />
         <br>Flask
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" />
         <br>Firebase
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" />
         <br>Git
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="65" height="65" />
         <br>GCP
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" />
         <br>Linux
       </td>
     </tr>
@@ -115,21 +115,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/binarybhavik">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binarybhavik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binarybhavik&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/sudobhavik">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudobhavik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudobhavik&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
   
   <br/><br/>
   
-  <a href="https://github.com/binarybhavik">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarybhavik&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
+  <a href="https://github.com/sudobhavik">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudobhavik&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
   </a>
   
   <br/><br/>
   
-  <a href="https://github.com/binarybhavik">
-    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binarybhavik&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <a href="https://github.com/sudobhavik">
+    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudobhavik&theme=tokyonight" alt="GitHub Profile Summary"/>
   </a>
 </div>
 
@@ -142,12 +142,12 @@
   <a href="mailto:jbhavik015@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://github.com/binarybhavik">
+  <a href="https://github.com/sudobhavik">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
-  <br/><br/>
-  
+</div>
+
+<div align="center">
   <table border="0">
     <tr>
       <td width="33%" align="center">
@@ -161,14 +161,13 @@
         </a>
       </td>
       <td width="33%" align="center">
-        <a href="https://github.com/binarybhavik">
+        <a href="https://github.com/sudobhavik">
           <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100%">
         </a>
       </td>
     </tr>
   </table>
   
-  <img src="https://komarev.com/ghpvc/?username=binarybhavik&style=for-the-badge&color=38BDAE" alt="Profile views"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=sudobhavik&style=for-the-badge&color=38BDAE" alt="Profile views"/>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=150&section=footer" />
