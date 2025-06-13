@@ -136,7 +136,7 @@
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/binarybhavik">
+  <a href="https://linkedin.com/in/sudobhavik">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:jbhavik015@gmail.com">
